@@ -1,0 +1,65 @@
+- !<AssetImportMetadata/eeef8a33-7c41-4b13-9039-1c558fc2a726>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 1f6ab5ee-e43b-4cdb-93a8-1ab6154cea8e
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 1f6ab5ee-e43b-4cdb-93a8-1ab6154cea8e
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 22f05155-0547-4f2a-9b89-0915cb4723d1
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/22f05155-0547-4f2a-9b89-0915cb4723d1>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 135f3175-7d48-44d4-8bf1-8f4e4302de3c
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    debugMode: false
+    debugText: false
+    deviceTrackingRotation: false
+    layerTransforms: false
+    maxXClamp: false
+    minXClamp: false
+    parallaxFactors: false
+    smoothingFactor: false
+    speedMultiplier: false
+    testMode: false
+    wrapAround: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - referenceObject: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      layerTransforms: !<reference.ScreenTransform[]>
+        []
+      parallaxFactors: !<float[]>
+        []
+      intensity: !<float> 0.000000
+      maxRotationAngle: !<float> 0.000000
+      maxOffset: !<float> 0.000000
+      wrapAround: true
+      enableVertical: false
+      smoothingFactor: 0.100000
+      speedMultiplier: !<float> 1.000000
+      debugMode: false
+      deviceTrackingRotation: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      testMode: false
+      minXClamp: !<float> -1.000000
+      maxXClamp: !<float> 1.000000
+      debugText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
