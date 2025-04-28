@@ -45,7 +45,7 @@ The parallax factors determine how much each layer moves relative to device rota
 The Parallax Manager exposes an API for external scripts:
 ```javascript
 // Reset all layers to their initial positions
-someScriptWithReference.api.resetLayers();
+script.api.resetLayers();
 ```
 
 ## Credits
